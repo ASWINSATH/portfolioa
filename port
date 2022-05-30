@@ -1,0 +1,71 @@
+<div class="bg-image pt-2" style="background-image: url('./hacker.jpg');
+
+navbar navbar-expand-lg bg-secondary p-2 text-white bg-opacity-50
+<div class="float-end">
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav  mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">About</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link " href="#">Contact</a>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <br><br><br><br><br><br><br><br>
+                    <h4 class="text-light text-center  pt-5">Welcome</h4>
+                   
+                    <h2 class="text-light text-center  pt-5">i'M <span class="text-danger">ASWIN</span>&nbsp;PK</h2>
+    
+    
+                    <div class="row">
+                        <div class="col-lg-5"></div>
+                        <div class="col-lg-2 bg-opacity-25 pt-5">
+                            <h4 class=" text-center text-success border rounded-pill pt-2 pb-2"
+                                style="background-color: rgba(97, 124, 162, 0.292);">Web Developer</h4>
+                        </div>
+                        <div class="col-lg-5"></div>
+                    </div>
+
+                    <img src="./aswin.jpg" width="30%" height="300px" class="img-thumbnail" alt="...">
+
+
+
+                    <div class="row bg-secondary bg-opacity-25 slideshow-container">
+                        <div class="col-1">
+                
+                        </div>
+                        <div class="col-4"><br><br>
+                            <img src="./240395156_1507138659642593_5901813323326505947_n.jpg" class="" width="60%" alt="">
+                        </div>
+                        <div class="col-5">
+                            <br>
+                            <h4 class=" text-success">About me</h4>
+                           
+                
+                         
+                
+                        </div>
+                        <div class="col-">
+                
+                        </div>
+                
+                
+                
+                
+                
+                    </div>
+                
+
+
+                    text-white fa-1x  bg-opacity-50%
+                    <ul type="circle"class="" >
+                        <li> age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;25</li>
+                        <li>place&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Thrissur</li>
+                        <li>gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Male</li>
+    
+                    </ul>
